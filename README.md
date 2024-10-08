@@ -1,4 +1,4 @@
-## Attention! Some buttons aren't working when running the project on the VSCode terminal; they only work on the CMD terminal.
+## Attention! Some buttons aren't working when running the project on the VSCode terminal; they only work on the Command Prompt.
 
 <div id="top"></div>
 
