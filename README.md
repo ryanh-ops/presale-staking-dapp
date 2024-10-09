@@ -64,7 +64,7 @@ Please install or have installed the following:
 2. Clone the repo:
 
 ```bash
-  git clone https://gitlab.com/cowchain/marketplace-dapp
+  git clone https://github.com/TJ9373/marketplace-dapp
   cd marketplace-dapp
 ```
 
